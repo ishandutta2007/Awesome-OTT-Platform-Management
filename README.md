@@ -60,15 +60,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | Platform | Description | Pricing | Free Tier Limit | Company Size |
 |----------|-------------|---------|-----------------|--------------|
 | **[Vimeo OTT](https://vimeo.com/ott)** | Turnkey OTT solution for transforming video libraries... | $1/subscriber/mo | 30-day free trial | $1B+ |
-| **[Brightcove](https://www.brightcove.com/)** | Enterprise video platform for global broadcasting, VOD hosting... | Custom Pricing | 30-day free trial | $500M+ |
-| **[Kaltura](https://www.kaltura.com/)** | Comprehensive video experience platform supporting OTT... | Custom Pricing | 30-day free trial | $300M+ |
-| **[JW Player OTT](https://www.jwplayer.com/)** | Video platform combining powerful player technology, hosting, monetization... | Custom Pricing | 30-day free trial (10K plays/mo) | $100M+ |
+| **[Brightcove](https://www.brightcove.com/)** | Enterprise video platform for global broadcasting, VOD hosting... | Custom Quote (Est. $20k+/yr) | 30-day free trial | $500M+ |
+| **[Kaltura](https://www.kaltura.com/)** | Comprehensive video experience platform supporting OTT... | Starts at $19/mo | 30-day free trial | $300M+ |
+| **[JW Player OTT](https://www.jwplayer.com/)** | Video platform combining powerful player technology, hosting, monetization... | Starts at $10/mo | 30-day free trial (10K plays/mo) | $100M+ |
 | **[Dacast](https://www.dacast.com/)** | Live streaming and VOD platform focused on events... | Starts at $39/mo | 14-day free trial (50 GB storage) | $50M+ |
 | **[Uscreen](https://www.uscreen.tv/)** | Creator-focused OTT and membership platform optimized for subscription video... | Starts at $149/mo | 14-day free trial | $30M+ |
-| **[Setplex](https://www.setplex.com/)** | Unified OTT platform for operators covering content preparation... | Custom Pricing | Demo only | $25M+ |
+| **[Setplex](https://www.setplex.com/)** | Unified OTT platform for operators covering content preparation... | Custom Quote Only | Demo only | $25M+ |
 | **[Muvi](https://www.muvi.com/)** | All-in-one OTT platform enabling rapid launch of branded Netflix-style services... | Starts at $399/mo | 14-day free trial | $20M+ |
-| **[VPlayed](https://www.vplayed.com/)** | Customizable white-label OTT solution with SaaS and on-premise options... | Custom Pricing | Demo only | $10M+ |
-| **[GudSho](https://www.gudsho.com/)** | OTT and video platform provider offering end-to-end streaming solutions... | Custom Pricing | 14-day free trial | $5M+ |
+| **[VPlayed](https://www.vplayed.com/)** | Customizable white-label OTT solution with SaaS and on-premise options... | Custom Quote (One-time cost) | Demo only | $10M+ |
+| **[GudSho](https://www.gudsho.com/)** | OTT and video platform provider offering end-to-end streaming solutions... | Starts at $0/mo | 14-day free trial | $5M+ |
 
 
 
