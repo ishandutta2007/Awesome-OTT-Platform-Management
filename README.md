@@ -1,4 +1,17 @@
-# Awesome-OTT-Platform-Management
+# Awesome-OTT-Platform-Management 🚀
+
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome OTT Platform Management Banner" />
+</div>
+<br/>
+<div align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
+
+**Top OTT Platform Management Ecosystem** 🌟
+
+*A comprehensive, SEO-friendly curated directory for Over-The-Top (OTT) video streaming, Content Management Systems (CMS), live broadcasting, VOD hosting, and monetization tools. Explore top SaaS products and open-source GitHub projects to build scalable media streaming solutions.*
 
 ## Top OTT Platform Management Ecosystem
 
@@ -28,7 +41,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
@@ -40,145 +53,83 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 
 
-- **[Brightcove](https://www.brightcove.com/)**  
+| Platform | Description | Pricing | Free Tier Limit | Company Size |
+|----------|-------------|---------|-----------------|--------------|
+| **[Vimeo OTT](https://vimeo.com/ott)** | Turnkey OTT solution for transforming video libraries... | $1/subscriber/mo | N/A | $1B+ |
+| **[Brightcove](https://www.brightcove.com/)** | Enterprise video platform for global broadcasting, VOD hosting... | Custom Pricing | N/A | $500M+ |
+| **[Kaltura](https://www.kaltura.com/)** | Comprehensive video experience platform supporting OTT... | Custom Pricing | N/A | $300M+ |
+| **[JW Player OTT](https://www.jwplayer.com/)** | Video platform combining powerful player technology, hosting, monetization... | Custom Pricing | N/A | $100M+ |
+| **[Dacast](https://www.dacast.com/)** | Live streaming and VOD platform focused on events... | Starts at $39/mo | N/A | $50M+ |
+| **[Uscreen](https://www.uscreen.tv/)** | Creator-focused OTT and membership platform optimized for subscription video... | Starts at $149/mo | N/A | $30M+ |
+| **[Setplex](https://www.setplex.com/)** | Unified OTT platform for operators covering content preparation... | Custom Pricing | N/A | $25M+ |
+| **[Muvi](https://www.muvi.com/)** | All-in-one OTT platform enabling rapid launch of branded Netflix-style services... | Starts at $399/mo | N/A | $20M+ |
+| **[VPlayed](https://www.vplayed.com/)** | Customizable white-label OTT solution with SaaS and on-premise options... | Custom Pricing | N/A | $10M+ |
+| **[GudSho](https://www.gudsho.com/)** | OTT and video platform provider offering end-to-end streaming solutions... | Custom Pricing | N/A | $5M+ |
 
-  Enterprise video platform for global broadcasting, VOD hosting, live streaming, monetization, and advanced player experiences at scale.
 
 
+## 🛠️ Open-Source GitHub Projects
 
-- **[Kaltura](https://www.kaltura.com/)**  
 
-  Comprehensive video experience platform supporting OTT, education, enterprise video, and media workflows with strong APIs and customization (also offers open-source Community Edition components).
+- **[jellyfin](https://github.com/jellyfin/jellyfin)** [![Stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=social&color=white)](https://github.com/jellyfin/jellyfin/stargazers)
 
+  Free and open-source media server for personal media libraries.
 
+- **[srs](https://github.com/ossrs/srs)** [![Stars](https://img.shields.io/github/stars/ossrs/srs?style=social&color=white)](https://github.com/ossrs/srs/stargazers)
 
-- **[Dacast](https://www.dacast.com/)**  
+  High-efficiency open-source real-time media server.
 
-  Live streaming and VOD platform focused on events, broadcasting, monetization, and easy multi-platform delivery for creators and businesses.
+- **[invidious](https://github.com/iv-org/invidious)** [![Stars](https://img.shields.io/github/stars/iv-org/invidious?style=social&color=white)](https://github.com/iv-org/invidious/stargazers)
 
+  Open-source alternative front-end to YouTube.
 
+- **[PeerTube](https://github.com/Chocobozzz/PeerTube)** [![Stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=social&color=white)](https://github.com/Chocobozzz/PeerTube/stargazers)
 
-- **[Muvi](https://www.muvi.com/)**  
+  Decentralized, ActivityPub-federated video platform using P2P streaming in the browser.
 
-  All-in-one OTT platform enabling rapid launch of branded Netflix-style services with apps, monetization, CMS, and multi-device support.
+- **[Sonarr](https://github.com/Sonarr/Sonarr)** [![Stars](https://img.shields.io/github/stars/Sonarr/Sonarr?style=social&color=white)](https://github.com/Sonarr/Sonarr/stargazers)
 
+  Smart PVR for newsgroup and bittorrent users.
 
+- **[Radarr](https://github.com/Radarr/Radarr)** [![Stars](https://img.shields.io/github/stars/Radarr/Radarr?style=social&color=white)](https://github.com/Radarr/Radarr/stargazers)
 
-- **[VPlayed](https://www.vplayed.com/)**  
+  A fork of Sonarr to work with movies à la Couchpotato.
 
-  Customizable white-label OTT solution with SaaS and on-premise options, strong ownership model, and full monetization capabilities for media companies.
+- **[owncast](https://github.com/owncast/owncast)** [![Stars](https://img.shields.io/github/stars/owncast/owncast?style=social&color=white)](https://github.com/owncast/owncast/stargazers)
 
+  Self-hosted live video streaming and chat server.
 
+- **[restreamer](https://github.com/datarhei/restreamer)** [![Stars](https://img.shields.io/github/stars/datarhei/restreamer?style=social&color=white)](https://github.com/datarhei/restreamer/stargazers)
 
-- **[Uscreen](https://www.uscreen.tv/)**  
+  Self-hosted live streaming solution with a user-friendly UI.
 
-  Creator-focused OTT and membership platform optimized for subscription video, fitness/faith content, and branded apps with monetization tools.
+- **[mediacms](https://github.com/mediacms-io/mediacms)** [![Stars](https://img.shields.io/github/stars/mediacms-io/mediacms?style=social&color=white)](https://github.com/mediacms-io/mediacms/stargazers)
 
+  Modern open-source video and media CMS built with Django/React.
 
+- **[Ant-Media-Server](https://github.com/ant-media/Ant-Media-Server)** [![Stars](https://img.shields.io/github/stars/ant-media/Ant-Media-Server?style=social&color=white)](https://github.com/ant-media/Ant-Media-Server/stargazers)
 
-- **[Vimeo OTT](https://vimeo.com/ott)**  
+  Scalable open-source media server delivering ultra-low latency WebRTC.
 
-  Turnkey OTT solution for transforming video libraries into subscription or transactional streaming services with branded apps and monetization.
+- **[OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine)** [![Stars](https://img.shields.io/github/stars/AirenSoft/OvenMediaEngine?style=social&color=white)](https://github.com/AirenSoft/OvenMediaEngine/stargazers)
 
+  Sub-second latency streaming server supporting WebRTC.
 
+- **[AVideo](https://github.com/WWBN/AVideo)** [![Stars](https://img.shields.io/github/stars/WWBN/AVideo?style=social&color=white)](https://github.com/WWBN/AVideo/stargazers)
 
-- **[GudSho](https://www.gudsho.com/)**  
+  Open-source video platform/CMS for building YouTube-like sites.
 
-  OTT and video platform provider offering end-to-end streaming solutions, content management, and multi-screen delivery.
+- **[sync](https://github.com/calzoneman/sync)** [![Stars](https://img.shields.io/github/stars/calzoneman/sync?style=social&color=white)](https://github.com/calzoneman/sync/stargazers)
 
+  Synchronized media viewing and chat platform (CyTube).
 
+- **[server](https://github.com/kaltura/server)** [![Stars](https://img.shields.io/github/stars/kaltura/server?style=social&color=white)](https://github.com/kaltura/server/stargazers)
 
-- **[JW Player OTT](https://www.jwplayer.com/)**  
-
-  Video platform combining powerful player technology, hosting, monetization, and OTT capabilities for publishers and media brands.
-
-
-
-- **[Setplex](https://www.setplex.com/)**  
-
-  Unified OTT platform for operators covering content preparation, management, monetization, delivery, multi-screen apps, and analytics.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[PeerTube](https://github.com/Chocobozzz/PeerTube)**  
-
-  Decentralized, ActivityPub-federated video platform using P2P streaming in the browser — a privacy-respecting alternative to centralized video hosts.
-
-
-
-- **[Owncast](https://github.com/owncast/owncast)**  
-
-  Self-hosted live video streaming and chat server that lets creators run their own Twitch-style streams with full ownership of content and audience.
-
-
-
-- **[Ant Media Server](https://github.com/ant-media/Ant-Media-Server)**  
-
-  Scalable open-source media server delivering ultra-low latency WebRTC (~0.5s), RTMP, HLS, SRT, adaptive bitrate, and live streaming capabilities.
-
-
-
-- **[MediaCMS](https://github.com/mediacms-io/mediacms)**  
-
-  Modern open-source video and media CMS built with Django/React, featuring uploads, categories, playlists, adaptive streaming, transcription, and REST API.
-
-
-
-- **[SRS (Simple Realtime Server)](https://github.com/ossrs/srs)**  
-
-  High-efficiency open-source real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, DASH, and multiple codecs for live streaming.
-
-
-
-- **[OvenMediaEngine](https://github.com/AirenSoft/OvenMediaEngine)**  
-
-  Sub-second latency streaming server supporting WebRTC, Low-Latency HLS, adaptive bitrate, and scalable live broadcasting.
-
-
-
-- **[Restreamer](https://github.com/datarhei/restreamer)**  
-
-  Self-hosted live streaming solution with a user-friendly UI for ingesting RTMP/SRT streams and restreaming to websites or multiple platforms.
-
-
-
-- **[Kaltura CE / Server](https://github.com/kaltura/server)**  
-
-  Open-source components of the Kaltura video platform (Community Edition) for video management, publishing, and media workflows under AGPL.
-
-
-
-- **[AVideo](https://github.com/WWBN/AVideo)**  
-
-  Open-source video platform/CMS for building YouTube-like sites with live streaming, monetization options, and extensive plugins.
-
-
-
-- **[Jellyfin](https://github.com/jellyfin/jellyfin)**  
-
-  Free and open-source media server for organizing, managing, and streaming personal media libraries (movies, TV, music) across devices.
-
-
-
-- **[CyTube](https://github.com/calzoneman/sync)**  
-
-  Synchronized media viewing and chat platform for collaborative video watching with friends or communities.
-
-
-
-- **[Invidious](https://github.com/iv-org/invidious)**  
-
-  Open-source alternative front-end to YouTube focused on privacy, lightweight browsing, and self-hosting.
-
-
+  Open-source components of the Kaltura video platform.
 
 ### Additional Strong Open-Source Options
 
@@ -200,7 +151,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## How to Contribute
+## 🤝 How to Contribute
 
 
 
@@ -218,7 +169,7 @@ Star the repo if you find it useful!
 
 
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 
 
@@ -237,3 +188,14 @@ Star the repo if you find it useful!
 **Made for content creators, broadcasters, media technologists, and developers building independent streaming services.**  
 
 Let's make OTT platforms more open, controllable, and free from proprietary lock-in.
+
+## 📈 Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-OTT-Platform-Management&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-OTT-Platform-Management&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-OTT-Platform-Management&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-OTT-Platform-Management&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
